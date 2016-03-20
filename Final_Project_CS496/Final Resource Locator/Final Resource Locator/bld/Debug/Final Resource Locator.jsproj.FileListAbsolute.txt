@@ -1,0 +1,15 @@
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bin\Debug\ReverseMap\resources.pri
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bin\Debug\AppxManifest.xml
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bin\Debug\Final Resource Locator.build.appxrecipe
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\priconfig.xml
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\priconfig.xml.intermediate
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\layout.resfiles
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\layout.resfiles.intermediate
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\resources.resfiles
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\resources.resfiles.intermediate
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\pri.resfiles
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\pri.resfiles.intermediate
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\qualifiers.txt
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\qualifiers.txt.intermediate
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\shaine\documents\visual studio 2013\Projects\Final Resource Locator\Final Resource Locator\bld\Debug\ProjectArchitectures.txt

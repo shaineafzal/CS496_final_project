@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>newAccount</title>
+
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <link href="newAccount.css" rel="stylesheet" />
+    <script src="newAccount.js"></script>
+</head>
+<body>
+    <div class="newAccount fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h3 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Create New Account</span>
+            </h3>
+        </header>
+        <section aria-label="Main content" role="main">
+            <h3>Sign In</h3>
+            <form id="form2">
+                <input type="text" id="username" value="username" /><br>
+                <input type="password" id="password" value="password" /><br>
+                <button id="submit">Submit</button>
+            </form><br /><br />
+            <p class="errorMessage" id="invalidChoice"></p>
+        </section>
+    </div>
+</body>
+</html>

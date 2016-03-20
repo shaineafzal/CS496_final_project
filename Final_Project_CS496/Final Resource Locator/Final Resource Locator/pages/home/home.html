@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner">
+            <h2 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Low-Income<br />Resource Locator</span><br />
+            </h2>
+        </header>
+        <section aria-label="Main content" role="main">
+             <h3>Sign In</h3>
+                <form id="form1">
+                    Username <input type="text" id="username" /><br>
+                    Password <input type="password" id="password" /><br>
+                    <button id="submit">Submit</button>
+                </form><br /><br />
+                <button class ="createAccount" id="newUser">Not Registered? Click Here to Create Account</button>
+                <p class="errorMessage" id="incorrectPass"></p>
+            </section>
+             
+    </div>
+</body>
+</html>
